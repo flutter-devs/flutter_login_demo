@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/manoj/.pub-cache/hosted/pub.dartlang.org/video_player-0.5.4/android/src/main/assets"/><source path="/home/manoj/FlutterProjects/FlutterSplash/flutter_app/build/video_player/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/manoj/.pub-cache/hosted/pub.dartlang.org/video_player-0.5.4/android/src/debug/assets"/></dataSet></merger>

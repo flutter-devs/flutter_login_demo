@@ -1,0 +1,4 @@
+#Thu Aug 16 20:35:32 IST 2018
+base.0=D\:\\FLUTTER\\FLUTTER_DEVS\\Projects\\flutterloginsignupdemo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
