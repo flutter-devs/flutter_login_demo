@@ -1,6 +1,6 @@
-# Flutter Splash Demo
+# Flutter Login Demo
 
-A Flutter applicaiton to showcase how to make different types of Splash Screens. In this demo we have used Video Player plugin, the plugin name is video_player 0.6.4
+A Flutter applicaiton to showcase how to create login and signup UI.
 
 # Demo
 <img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/demo.gif">
