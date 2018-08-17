@@ -8,15 +8,11 @@ A Flutter applicaiton to showcase how to make different types of Splash Screens.
 
 
 # Android Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/Android1.jpg">
-<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/Android2.jpg">
-<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/Android3.jpg">
+<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/Android1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/android2.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/android3.jpg">
 
 
 # iOS Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/iPhone1.jpg">
-<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/iPhone2.jpg">
-<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/iPhone3.jpg">
+<img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/iPhone1.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/iphone2.jpg"> <img height="480px" src="https://github.com/flutter-devs/flutter_login_demo/blob/master/screens/iphone3.jpg">
 
 
 ## Getting Started
